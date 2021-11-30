@@ -1,0 +1,3 @@
+- Update trees & kernel
+- Adapt device specific settings to A12 style
+- Fix Clear Speaker
