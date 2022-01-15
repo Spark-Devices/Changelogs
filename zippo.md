@@ -1,11 +1,9 @@
-• Proton clang
-• Adjust schedtune params
-• Fix FOD which needed double touch to unlock
-• Add Moto Dolby
-• Use correct colour profiles
-• Enable OEM unlocking toggle
-• Enable SAE for WPA3
-• Add NotchBar killer overlay
-• Add support for FPS info
-• Add setting and QS tile for HBM
-• Add GcamGO 2.5 (thanks @kanstmablason)
+• No need to disable DM-Verity with locked bootloader anymore
+• Turn off compressed apex
+• Unpin camera app in memory to save some RAM
+• Fix the missing symbol error in ims_media_jni
+• Switch to AOSP WFD
+• Switch to Xiaomi fingerprint extension
+• Update many blobs from CAF
+• Switch back to QTI BT
+• Integrate MotoDolby in the audio settings
