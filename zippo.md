@@ -7,3 +7,4 @@
 • Update many blobs from CAF
 • Switch back to QTI BT
 • Integrate MotoDolby in the audio settings
+• Adapt parts to S style
