@@ -7,4 +7,5 @@
 • Update many blobs from CAF
 • Switch back to QTI BT
 • Integrate MotoDolby in the audio settings
-• Adapt parts to S style
+• Adapt parts to S style and add icon vectors
+• Kernel upstreamed to Schatzkiste 0.7 by Einar
