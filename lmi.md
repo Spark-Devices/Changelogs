@@ -1,3 +1,3 @@
-- Update trees & kernel
-- Adapt device specific settings to A12 style
-- Fix Clear Speaker
+- Update trees with lineage upstream
+- Rework & fix device parts
+- Switch to Quantic kernel by default
