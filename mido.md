@@ -1,5 +1,13 @@
-Monday, 03 January 2022
-- Initial Official Build
-- Fix Vibration Very Low by Default
-- Changes setup cpu from sunfish
-- Change Kernel To Sleepy
+Update Audio HALs from LA.UM.10.6.2.r1-00500-89xx.0
+Update Display HALs from LA.UM.10.6.2.r1-00500-89xx.0
+Update Display props
+Drop perf blobs from LA.UM.8.6.2.r1-08600-89xx.0
+Drop Graphics Blobs from LA.UM.9.6.3.r1-04400-89xx.0
+update init.qcom.post_boot.sh from LA.UM.10.6.2.r1-00500-89xx.0
+update ueventd.qcom.rc from LA.UM.10.6.2.r1-00500-89xx.0
+update some blobs from from alioth qssi-user 12 SKQ1.211006.001 21.12.1 release-keys
+enable media performance class 12
+Add New GPS config
+Drop Power-Stats HALs
+Disable Iorapd
+nuke ANT Radio
