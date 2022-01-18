@@ -1,4 +1,12 @@
-• Initial OFFICIAL build
-• Safetynet Out Of the Box
-• Enforcing 
-• Default Kernel SilverCore 10.6 (Credit @reignz3)
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Xiaomi POCO F1 (beryllium)
+Device maintainer: Sourav 
+Android Version: 12
+
+• Switched To User Build  
+• Fixed Notch Hide Cutout Overlay
+• Updated Kernel To SilverCore 10.7 (Credits @reignz3)
+• Updated Raven FP To Jan
+• Switched To Qcom Audio Implementation 
+• Enabled In Call Music Support
