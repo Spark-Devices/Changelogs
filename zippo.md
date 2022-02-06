@@ -1,11 +1,7 @@
-• No need to disable DM-Verity with locked bootloader anymore
-• Turn off compressed apex
-• Unpin camera app in memory to save some RAM
-• Fix the missing symbol error in ims_media_jni
-• Switch to AOSP WFD
-• Switch to Xiaomi fingerprint extension
-• Update many blobs from CAF
-• Switch back to QTI BT
-• Integrate MotoDolby in the audio settings
-• Adapt parts to S style and add icon vectors
-• Kernel upstreamed to Schatzkiste 0.7 by Einar
+• Revert Display and Graphics blobs to LA.UM.9.1.r1-11400.02
+• Don't warn about FC in Google TTS
+• Don't write binary XML files
+• Remove proto configs
+• Drop Sensorscalibrate
+• Fix FOD pressed aRGB code and icon
+• Kernel upstreamed to Schatzkiste 0.9 by Einar
