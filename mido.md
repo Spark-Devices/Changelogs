@@ -1,12 +1,11 @@
-- Update Audio HALs from LA.UM.10.6.2.r1-00500-89xx.0
-- Update Display HALs from LA.UM.10.6.2.r1-00500-89xx.0
-- Drop perf blobs from LA.UM.8.6.2.r1-08600-89xx.0
-- Drop Graphics Blobs from LA.UM.9.6.3.r1-04400-89xx.0
-- Update init.qcom.post_boot.sh from LA.UM.10.6.2.r1-00500-89xx.0
-- Update ueventd.qcom.rc from LA.UM.10.6.2.r1-00500-89xx.0
-- Update some blobs from from alioth qssi-user 12 SKQ1.211006.001 21.12.1 release-keys
-- enable media performance class 12
-- Add New GPS config
-- Drop Power-Stats HALs
-- Disable Iorapd
-- Nuke ANT Radio
+- Update Gameoptfeature
+- Update wcnss_service from LA.UM.9.6.3.r1-04400-89xx.0
+- Update Time/PowerOffAlarm/Per.Mgr from LA.UM.9.6.3.r1-04400-89xx.0
+- Update msm_irqbalance from LA.UM.9.6.2.r1-04200-89xx.0
+- Fixup! zygote preforking property
+- disable compressed APEX
+- Remove FM Tuner from audio input devices
+- Adapt clear speaker to S style
+- update some blobs from pan_sprout T89571AA3-user 11 RKQ1.200928002 00WW_3_240 release-keys
+- update dpm from alioth qssi-user-12-SKQ1.211006.001-22.1.19-release-keys
+- add UBWC blobs from pan_sprout T89571AA3-user 11 RKQ1.200928.002 00WW_3_240 release-keys
