@@ -1,3 +1,9 @@
+Changelog for v12.0 based on Android 12 February patch 
+- Updated lawnchair
+- merged security patch
+- under the hood improvements
+
+
 Changelog for vEnergized based on Android 12 January security patch:
 
 Feature Additions :
