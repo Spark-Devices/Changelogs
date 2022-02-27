@@ -1,3 +1,38 @@
+Changelog for v12.1 based on Android 12 :
+
+Feature Additions :
+ 
+
+• Added qti bt support
+• Added Android 12L style internet and screen record dialogs 
+• Added per app volume 
+• Integrated Google lens to screenshot UI
+• Added outline icon pack
+• Added expanded volume panel 
+• Removed Visualizer and added Pulse with lots of options
+• Added screen off animations
+• Integrated blur 
+• On the go improvements
+• Added gaming mode tile 
+• Redone Fps info service 
+• Made ripple effect on unlock optional
+• Updated Monet Implementation
+• Added Android 13 inspired media output picker
+• Added app lock
+• Added Face unlock
+• Improved pocket mode 
+• Redid smart space Implementation
+• Added Quick tap
+• Introduced Custom dashboard style 
+• Added Ambient ticker
+• Added toast Animation
+• Fixed an issue with apps going under the notch 
+• Introduced inbuilt ad block
+• Added more udfps icons 
+• Improved Gaming Mode 
+• Updated Lawnchair
+• Synced Translations
+
 Changelog for v12.0 based on Android 12 February patch 
 - Updated lawnchair
 - merged security patch
