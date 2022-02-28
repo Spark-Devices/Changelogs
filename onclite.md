@@ -1,0 +1,8 @@
+-Ship With Spotiflyer
+-Added F2FS Support
+-Added Seamless Transfer Support
+-Added Traffic Monitor By Default
+-Added Battery Saving Props
+-Enabled Vibration Multiple Intensities
+-Enabled FreeForm Window Management
+-Enhance Android GO Configurations
