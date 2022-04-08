@@ -1,3 +1,9 @@
+Changelog for version 12.2 based on Android 12L with April security patch:
+
+Fixed the fixable
+Reworked the reworkable
+Improved the improvable
+
 Changelog for v12.1 based on Android 12 :
 
 Feature Additions :
