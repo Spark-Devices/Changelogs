@@ -1,11 +1,10 @@
-- Update Gameoptfeature
-- Update wcnss_service from LA.UM.9.6.3.r1-04400-89xx.0
-- Update Time/PowerOffAlarm/Per.Mgr from LA.UM.9.6.3.r1-04400-89xx.0
-- Update msm_irqbalance from LA.UM.9.6.2.r1-04200-89xx.0
-- Fixup! zygote preforking property
-- disable compressed APEX
-- Remove FM Tuner from audio input devices
-- Adapt clear speaker to S style
-- update some blobs from pan_sprout T89571AA3-user 11 RKQ1.200928002 00WW_3_240 release-keys
-- update dpm from alioth qssi-user-12-SKQ1.211006.001-22.1.19-release-keys
-- add UBWC blobs from pan_sprout T89571AA3-user 11 RKQ1.200928.002 00WW_3_240 release-keys
+- update Graphics (SDM) blobs to LA.UM.9.6.3.r1-04400-89xx.0
+- Switch to uclamp
+- update ADSP blobs from FP3
+- update Audio and ANT+ blobs from FP3
+- update Bluetooth blobs from FP3
+- update DPM and DRM blobs from FP3
+- update FM and Gatekeeper blobs from FP3
+- Update keystore,Listen,Media blobs from FP3
+- update TUI, UBWC, Service Tracker and Peripheral manager blobs from FP3
+- Set UI rendering Skiagl with skiaglthreaded
