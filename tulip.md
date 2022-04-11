@@ -1,4 +1,4 @@
-Spark 12.2.
+Spark 12.2 (April 2022)
 
 ° Updated display properties for UI performance improvements.
 ° Build set to User.
