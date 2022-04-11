@@ -1,3 +1,8 @@
+Spark 12.2.
+
+° Updated display properties for UI performance improvements.
+° Build set to User.
+
 SparkOS 12.1 (February 2022)
 
 ° Fixed crashes in parts
