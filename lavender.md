@@ -1,8 +1,35 @@
-Spark S 12.1 Changelogs 
+Spark-OS 12.2 Changelog
 
-- Enabled Blur Support; <br>
-- Enabled QuickTap Support; <br>
-- Enabled Face Unlock Support; <br>
-- Changed Default DPI to 421dp to a better display/ui integration; <br>
-- Properly set manufacturer and soc properties; <br>
-- Drop Thermal Engine; 
+- Clean Flash Mandatory due to a rebase trees on common sources; <br>
+- overlay: Adapt some overlays to android 12L; <br>
+- wifi: smarter decisions on whether to use a 2- or 5Ghz AP; <br>
+- wifi: Enable nl broadcast logging and disable packet logging; <br>
+- props: Disable vsync for CPU rendered Apps; <br>
+- rootdir: Move boot animation early start to late-init; <br>
+- Add night display color temperature calibration from Coral; <br>
+- init: Add vendor prefix for shell; <br>
+- mirror IRQ tuning from Razer Phone 2; <br>
+- Increase mic volume; <br>
+- init: Register and enable qcrild & data services on boot; <br>
+- overlay: Disable slow blur effect to avoid laggish blur effect; <br>
+- rootdir: Hide Magisk Better; <br>
+- overlay: Add config_wallpaperMaxScale; <br>
+- overlay: Allow all apps to use smart replies; <br>
+- Improve scrolling and Ram managment; <br>
+- Disable sdm rotator downscaler; <br>
+- BoardConfig: Set NUM_FRAMEBUFFER_SURFACE_BUFFERS; <br>
+- Fix deprecated power profile items; <br>
+- Address hal_power_default self capability denial; <br>
+- Disable EGL buffer_age extension support; <br>
+- Enable cpuset for light service; <br>
+- Enable Seamless Transfer support; <br>
+- audio: Remove property violating sepolicy; <br>
+- sepolicy: Allow camera HAL to get/set vendor_video_prop; <br>
+- Disable the usage of ConfigStore; <br>
+- Disable Idle timeout; <br>
+- Disable debug.sf.enable_hwc_vds; <br>
+- power-libperfmgr: Properly handle sustained performance mode; <br>
+- libperfmgr: Update from android12-release; <br>
+- libperfmgr: Use log/log.h instead of utils/Log.h; <br>
+- libperfmgr.rc: let power hal start early; <br>
+- Xiaomi Parts: Added LED Brightness Control; <br>
